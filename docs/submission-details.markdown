@@ -33,6 +33,7 @@ We accept the following submission types as pdf documents in the AAAI format.
 * Research papers (8 pages) 
 * Posters on Research topics (4 pages)
 * Hands on Demonstrations (2 pages)
+
 The page limits include references and any appendices. The review process will be single blind.
 
 
