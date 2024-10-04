@@ -95,7 +95,7 @@ last_modified_timestamp: 2024-10-06 11:15 -0500
 last_version: 0.0.1
 
 # "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
+gh_edit_link: false # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/tree/main/docs" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
