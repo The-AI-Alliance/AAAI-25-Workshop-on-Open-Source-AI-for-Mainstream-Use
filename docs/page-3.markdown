@@ -11,8 +11,8 @@ has_children: false
 
 **Workshop Program Committee:**
 ---
-|Name  |email   ! Affiliation
-| |--------- | | |--------  |
+|Name  |email   | Affiliation |
+| :------- | :-------- |
 |Alexandru Cioba |alexandru.cioba@mtkresearch.com |MediaTek Research, UK. |
 |James Hendler |hendler@cs.rpi.edu |Rensselaer Polytechnic Institute, USA | 
 |Ezequiel Lanza |ezequiel.lanza@intel.com| Intel, Canada. |
