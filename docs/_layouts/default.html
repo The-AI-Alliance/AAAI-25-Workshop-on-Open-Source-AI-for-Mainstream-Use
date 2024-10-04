@@ -151,23 +151,6 @@ layout: table_wrappers
         {% else %}
           {{ content }}
         {% endif %}
-          
-        {% if page.has_children == true and page.has_toc != false %}
-          <hr>
-          <div class="child-pages-toc">
-            <h2 class="text-delta">Child Pages</h2>
-            <ul>
-              {%- assign children_list = pages_list | where: "parent", page.title | where: "grand_parent", page.parent -%}
-              {% for child in children_list %}
-                {% if child.nav_exclude != true %}
-                <li>
-                  <a href="{{site.baseurl}}{{child.url}}">{{child.title}}</a>{% if child.summary %} - {{child.summary}}{% endif %} 
-                </li>
-                {% endif %}
-              {% endfor %}
-            </ul>
-          </div>
-        {% endif %}
 
         {% capture footer_custom %}
           {%- include footer_custom.html -%}
