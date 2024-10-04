@@ -10,9 +10,10 @@ has_children: false
 **Chair:** Peter Santhanam (pasanth@us.ibm.com), IBM Research, USA 
 
 **Workshop Program Committee:**
+
 ---
 |Name  |email   | Affiliation |
-| :------- | :-------- |
+| :------- | :-------- |  :-------- |
 |Alexandru Cioba |alexandru.cioba@mtkresearch.com |MediaTek Research, UK. |
 |James Hendler |hendler@cs.rpi.edu |Rensselaer Polytechnic Institute, USA | 
 |Ezequiel Lanza |ezequiel.lanza@intel.com| Intel, Canada. |
