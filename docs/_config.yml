@@ -17,7 +17,7 @@ title: AAAI 25&colon; Workshop on Open-Source AI for Mainstream Use
 email: pasanth@us.ibm.com
 description: >- # this means to ignore newlines until "baseurl:"
   The website for the AAAI 25: Workshop on Open-Source AI for Mainstream Use, organized by the AI Alliance.
-baseurl: "/AAAI-25-Workshop-on-Open-So\urce-AI-for-Mainstream-Use" # the subpath of your site, e.g. /blog
+baseurl: "/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use" # the subpath of your site, e.g. /blog
 url: "https://the-ai-alliance.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
