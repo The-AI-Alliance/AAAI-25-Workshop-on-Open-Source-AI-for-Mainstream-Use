@@ -18,7 +18,7 @@ has_children: false
 |James Hendler |hendler@cs.rpi.edu |Rensselaer Polytechnic Institute, USA | 
 |Ezequiel Lanza |ezequiel.lanza@intel.com| Intel, Canada. |
 |Sujee Maniyam |sujee@node51.com| Node51 LLC, USA. |
-|Manish Parashar (manish.parashar@utah.edu), University of Utah, USA.
+|Manish Parashar |manish.parashar@utah.edu| University of Utah, USA.|
 |Jonathan Starr |jon@numfocus.org| NumFOCUS, USA. |
 |Raphaël Vienne |raphael.vienne@datacraft.paris| Datacraft, France. |
 
