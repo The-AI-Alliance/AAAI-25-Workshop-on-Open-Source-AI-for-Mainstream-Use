@@ -10,7 +10,7 @@ has_children: false
 
 | **Date** | **Event** |
 | :------- | :-------- |
-|October 7, 2024 |Call for Papers & Demos posted |
+|October 7, 2024 |AAAI Publishes Workshop Call for Papers |
 |October 14, 2024 | EasyChair submission portal opens. |
 |November 24, 2024  |Workshop Submissions Due to Organizers|
 |December 9, 2024  |Organizers send acceptance/rejection letters to participants|
