@@ -5,7 +5,7 @@ nav_order: 30
 has_children: false
 ---
 
-# Organizers
+## Organizers
 
 **Chair:** Peter Santhanam (pasanth@us.ibm.com), IBM Research, USA 
 
