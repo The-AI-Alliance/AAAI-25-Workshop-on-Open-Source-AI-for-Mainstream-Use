@@ -2,7 +2,7 @@
 layout: default
 title: Description
 nav_order: 10
-has_children: true
+has_children: false
 ---
 
 # AAAI 25: Workshop on Open-Source AI for Mainstream Use
