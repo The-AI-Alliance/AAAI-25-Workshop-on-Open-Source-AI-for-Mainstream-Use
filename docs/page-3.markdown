@@ -1,20 +1,25 @@
 ---
 layout: default
-title: Page 3
+title: Organizers
 nav_order: 30
 has_children: false
 ---
 
-# Page 3
+# Organizers
 
-> **NOTE:**
-> This is how you can write a callout.
+**Chair:** Peter Santhanam (pasanth@us.ibm.com), IBM Research, USA 
 
-## Subsection Title
+**Workshop Program Committee:**
+---
+|Name  |email   ! Affiliation
+| |--------- | | |--------  |
+|Alexandru Cioba |alexandru.cioba@mtkresearch.com |MediaTek Research, UK. |
+|James Hendler |hendler@cs.rpi.edu |Rensselaer Polytechnic Institute, USA | 
+|Ezequiel Lanza |ezequiel.lanza@intel.com| Intel, Canada. |
+|Sujee Maniyam |sujee@node51.com| Node51 LLC, USA. |
+|Manish Parashar (manish.parashar@utah.edu), University of Utah, USA.
+|Jonathan Starr |jon@numfocus.org| NumFOCUS, USA. |
+|Raphaël Vienne |raphael.vienne@datacraft.paris| Datacraft, France. |
 
-Text
-
-1. **Numbered item 1:** See the [Alliance website](https://thealliance.ai){:target="other_browser_tab"}.
-1. **Numbered item 2:** See [page 2 on this website]({{site.baseurl}}/page-2).
 
 
