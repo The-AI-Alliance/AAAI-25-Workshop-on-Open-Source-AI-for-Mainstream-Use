@@ -8,7 +8,8 @@ has_children: false
 
 ## Schedule & Timeline
 
-| **Date** | **Event**|
+| **Date** | **Event** |
+| :------- | :-------- |
 |October 7, 2024 |Call for Papers & Demos posted |
 |October 14, 2024 | EasyChair submission portal opens. |
 |November 24, 2024  |Workshop Submissions Due to Organizers|
