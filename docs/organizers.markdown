@@ -21,5 +21,3 @@ has_children: false
 |Jonathan Starr |jon@numfocus.org| NumFOCUS, USA. |
 |Raphaël Vienne |raphael.vienne@datacraft.paris| Datacraft, France. |
 
-
-
