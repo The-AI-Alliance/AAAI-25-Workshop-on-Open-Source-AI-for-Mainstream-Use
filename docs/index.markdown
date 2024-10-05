@@ -33,7 +33,7 @@ As is evident from the description above, the impact of open-source AI is undeni
 * Openness:  Current and evolving frameworks for defining openness of AI models
 * Benchmarks: Techniques for evaluating specific objectives such as Accuracy, Performance, Faithfulness, Bias, etc.
 * Evaluations of open models vs. proprietary models against various metrics.
-* Open Data Sources in various domains such as Industrial Applications, Drug Discovery, etc.
+* Open Data Sources & standards in various domains such as Industrial Applications, Drug Discovery, etc.
 * Assurance during AI system development: Specifications (e.g. resources, performance, execution speed, etc.) and safety requirements (use cases, context, failure modes, etc.), metrics & benchmarks, model-level and system-level alignment, measurement, continuous evaluation and reporting.
 * Safety & Security: Post deployment concerns such as unintended usage, model jailbreaking, model watermarking, guardrails, etc.  
 * Transparency: Visibility to AI system components (weights, training procedure and results, etc.), particularly the unique challenges in collection, use and potential exposure of data.
