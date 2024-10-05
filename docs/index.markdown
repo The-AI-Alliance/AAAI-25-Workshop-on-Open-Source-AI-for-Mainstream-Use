@@ -31,7 +31,8 @@ As is evident from the description above, the impact of open-source AI is undeni
 
 ## Examples of Research topics at the intersection of AI and Open Source 
 * Openness:  Current and evolving frameworks for defining openness of AI models
-* Benchmarks: Evaluations of open models vs. proprietary models
+* Benchmarks: Evaluations of open models vs. proprietary models for specific objectives such as Accuracy, Performance, Faithfulness, Bias, etc.
+* Open Data Sources in various domains such as Industrial Applications, Drug Discovery, etc.
 * Assurance during AI system development: Specifications (e.g. resources, performance, execution speed, etc.) and safety requirements (use cases, context, failure modes, etc.), metrics & benchmarks, model-level and system-level alignment, measurement, continuous evaluation and reporting.
 * Safety & Security: Post deployment concerns such as unintended usage, model jailbreaking, model watermarking, guardrails, etc.  
 * Transparency: Visibility to AI system components (weights, training procedure and results, etc.), particularly the unique challenges in collection, use and potential exposure of data.
@@ -50,12 +51,8 @@ As is evident from the description above, the impact of open-source AI is undeni
 * End to End RAG implementation using open source stack
 * Incremental knowledge addition to LLMs (e.g. InstructLab)
 * Simplifying GenAI deployments with Open Platform for Enterprise AI (OPEA).
-* **Open source tools** for AI guardrails (e.g. PurpleLlama, LlamaGuard), Hate, Abuse, Profanity detection and mitigation, Hallucination detection
-* Structured generation-Improved performance at reduced costs.
-* Memory-Efficient LLM Training 
+* **Open source tools** for AI guardrails (e.g. PurpleLlama, LlamaGuard), Hate/Abuse/Profanity detection and mitigation, Hallucination detection, Structured generation-Improved performance at reduced costs, Memory-Efficient LLM Training, Quantization & Pruning, etc.
 * Open stack Contrastive Language-Image Pre-Training (CLIP) embeddings
-* Quantization & Pruning
-
 
 
 ## For More Information
