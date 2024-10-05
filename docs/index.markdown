@@ -21,7 +21,7 @@ The goal of this interdisciplinary workshop is to explore the following five are
 * Technical guidance to support practical and meaningful regulations that promote open technology.
 * Building a vibrant open-source AI community and ecosystem.  
 
-Due to the importance of practical aspects in these areas, we want to address both active research areas and the practical implementations that shed light on the increasing role of open-source AI in society.
+Due to the importance of practical aspects in these areas, we want to address **both active research areas and the practical implementations** that shed light on the increasing role of open-source AI in society.
 
 As is evident from the description above, the impact of open-source AI is undeniable. However, to make it the mainstream approach to develop responsible AI applications, we need to answer many questions, such as:
 * How good are the leading open-source models compared to proprietary models?
