@@ -29,7 +29,7 @@ We expect 50-75 participants to support the following types of contributions rel
 * Hands on Demonstrations
 
 ## Submission Requirements
-We accept the following submission types as pdf documents in the AAAI format. 
+We accept the following submission types as pdf documents in the [AAAI format](https://aaai.org/authorkit25/). 
 * Research papers (8 pages) 
 * Posters on Research topics (4 pages)
 * Hands on Demonstrations (2 pages)
