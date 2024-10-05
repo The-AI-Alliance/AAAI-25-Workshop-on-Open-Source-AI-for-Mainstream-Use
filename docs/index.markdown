@@ -31,7 +31,8 @@ As is evident from the description above, the impact of open-source AI is undeni
 
 ## Examples of Research topics at the intersection of AI and Open Source 
 * Openness:  Current and evolving frameworks for defining openness of AI models
-* Benchmarks: Evaluations of open models vs. proprietary models for specific objectives such as Accuracy, Performance, Faithfulness, Bias, etc.
+* Benchmarks: Techniques for evaluating specific objectives such as Accuracy, Performance, Faithfulness, Bias, etc.
+* Evaluations of open models vs. proprietary models against various metrics.
 * Open Data Sources in various domains such as Industrial Applications, Drug Discovery, etc.
 * Assurance during AI system development: Specifications (e.g. resources, performance, execution speed, etc.) and safety requirements (use cases, context, failure modes, etc.), metrics & benchmarks, model-level and system-level alignment, measurement, continuous evaluation and reporting.
 * Safety & Security: Post deployment concerns such as unintended usage, model jailbreaking, model watermarking, guardrails, etc.  
