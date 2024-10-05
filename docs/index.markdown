@@ -47,7 +47,7 @@ As is evident from the description above, the impact of open-source AI is undeni
 
 ## Examples of Demonstration topics at the intersection of AI and Open Source 
 
-* Best practices on development, deployment and monitoring
+* Best practices in development, deployment and monitoring
 * Adaptation of an LLM with various techniques, RAG, LoRA, etc.
 * Building Mixture-of-Experts from LLaMA with Continual Pre-training
 * End to End RAG implementation using open source stack
