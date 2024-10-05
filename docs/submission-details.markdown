@@ -20,7 +20,7 @@ has_children: false
 
 
 ## Format
-This one-day workshop will include a keynote, a panel, research presentations, hands-on demonstrations and a poster session. 
+**This one-day workshop will include a keynote, a panel, research presentations, hands-on demonstrations and a poster session.** 
 
 ## Attendance
 We expect 50-75 participants to support the following types of contributions related to Open Source AI: 
@@ -28,12 +28,18 @@ We expect 50-75 participants to support the following types of contributions rel
 * Posters  (maximum 10) 
 * Hands on Demonstrations
 
+**Accepted papers require in-person presentation by at least one author.**
+
 ## Submission Requirements
 We accept the following submission types as pdf documents in the [AAAI format](https://aaai.org/authorkit25/). 
 * Research papers (8 pages) 
 * Posters on Research topics (4 pages)
 * Hands on Demonstrations (2 pages)
 
-The page limits include references and any appendices. The review process will be single blind.
+**The page limits include references and any appendices. The review process will be single blind.**
+
+## Publication Plan
+AAAI no longer produces technical reports for its workshops. All accepted papers will be available at this workshop website. **Authors are encouraged to share their work on platforms like arXiv or other online repositories for archival purposes**.
+
 
 
