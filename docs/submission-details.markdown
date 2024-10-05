@@ -11,7 +11,7 @@ has_children: false
 | **Date** | **Event** |
 | :------- | :-------- |
 |October 7, 2024 |AAAI Publishes Workshop Call for Papers |
-|October 14, 2024 | EasyChair submission portal opens. |
+|October 14, 2024 | EasyChair submission portal opens for this Workshop. |
 |November 24, 2024  |Workshop Submissions Due to Organizers|
 |December 9, 2024  |Organizers send acceptance/rejection letters to participants|
 |December 19, 2024  |AAAI-25 Early Registration Rate ends|
