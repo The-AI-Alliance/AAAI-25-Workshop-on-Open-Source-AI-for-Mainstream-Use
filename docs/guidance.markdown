@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Submission Guidance
-nav_order: 40
+nav_order: 30
 has_children: false
 ---
 # Submission Guidance
