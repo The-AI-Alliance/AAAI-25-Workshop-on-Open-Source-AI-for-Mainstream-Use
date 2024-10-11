@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Organizers
-nav_order: 30
+nav_order: 40
 has_children: false
 ---
 
