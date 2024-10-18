@@ -25,6 +25,7 @@ has_children: false
 ## Attendance
 We expect 50-75 participants to support the following types of contributions related to Open Source AI: 
 * Research papers
+* Policy/Position papers
 * Posters  (maximum 10) 
 * Hands on Demonstrations
 
@@ -32,7 +33,8 @@ We expect 50-75 participants to support the following types of contributions rel
 
 ## Submission Requirements
 We accept the following submission types as pdf documents in the [AAAI format](https://aaai.org/authorkit25/). 
-* Research papers (8 pages) 
+* Research papers (8 pages)
+* Policy/Position papers (4 pages)
 * Posters on Research topics (4 pages)
 * Hands on Demonstrations (2 pages)
 
