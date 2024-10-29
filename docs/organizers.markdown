@@ -15,7 +15,7 @@ has_children: false
 | :------- | :-------- |  :-------- |
 |Alexandru Cioba |alexandru.cioba@mtkresearch.com |MediaTek Research, UK. |
 |James Hendler |hendler@cs.rpi.edu |Rensselaer Polytechnic Institute, USA | 
-|Serdar Kadioglu |serdark@cs.brown.edu | Group VP of AI at Fidelity Investments & Adjunct Professor at Brown University, USA|
+|Serdar Kadioglu |serdark@cs.brown.edu | Fidelity Investments & Brown University, USA|
 |Ezequiel Lanza |ezequiel.lanza@intel.com| Intel, Canada. |
 |Greg Lindahl |greg@commoncrawl.org|Common Crawl Foundation, USA.|
 |Sujee Maniyam |sujee@node51.com| Node51 LLC, USA. |
