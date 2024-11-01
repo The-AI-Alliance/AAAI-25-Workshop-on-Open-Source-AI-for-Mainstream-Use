@@ -15,7 +15,7 @@ has_children: false
 |November 24, 2024  |Workshop Submissions Due to Organizers|
 |December 9, 2024  |Organizers send acceptance/rejection letters to participants|
 |December 19, 2024  |AAAI-25 Early Registration Rate ends|
-|January 13, 2025  |Authors send final submissions to the Organizers |
+|January 13, 2025  |Final submission of selected papers to the Organizers |
 |March 4, 2025  |Workshop Program at AAAI-25, Pennsylvania Convention Center |
 
 
