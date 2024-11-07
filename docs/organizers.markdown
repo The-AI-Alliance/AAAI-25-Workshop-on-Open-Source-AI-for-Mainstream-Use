@@ -20,6 +20,7 @@ has_children: false
 |Greg Lindahl |greg@commoncrawl.org|Common Crawl Foundation, USA.|
 |Sujee Maniyam |sujee@node51.com| Node51 LLC, USA. |
 |Manish Parashar |manish.parashar@utah.edu| University of Utah, USA.|
+|Pushkar Singh |pushkarsingh@google.com | Google, USA. |
 |Jonathan Starr |jon@numfocus.org| NumFOCUS, USA. |
 |Raphaël Vienne |raphael.vienne@datacraft.paris| Datacraft, France. |
 
