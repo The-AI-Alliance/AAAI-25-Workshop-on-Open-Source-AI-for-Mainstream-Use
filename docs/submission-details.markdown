@@ -32,13 +32,13 @@ We expect 50-75 participants to support the following types of contributions rel
 **Accepted papers require in-person presentation by at least one author.**
 
 ## Submission Requirements
-We accept the following submission types as pdf documents in the [AAAI format](https://aaai.org/authorkit25/). Since the review process is single blind, please use the camera ready format for the submission. 
+We accept the following submission types as pdf documents in the [AAAI format](https://aaai.org/authorkit25/). **Since the review process is single blind, please use the camera ready format for the submission.** 
 * Research papers (8 pages)
 * Policy/Position papers (4 pages)
 * Posters on Research topics (4 pages)
 * Hands on Demonstrations (2 pages)
 
-**The page limits include references and any appendices. The review process will be single blind.**
+**The page limits include references and any appendices.**
 
 ## Publication Plan
 AAAI no longer produces technical reports for its workshops. All accepted papers will be available at this workshop website. **Authors are encouraged to share their work on platforms like arXiv or other online repositories for archival purposes**.
