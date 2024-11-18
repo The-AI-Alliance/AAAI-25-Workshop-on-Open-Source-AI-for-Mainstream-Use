@@ -32,7 +32,7 @@ We expect 50-75 participants to support the following types of contributions rel
 **Accepted papers require in-person presentation by at least one author.**
 
 ## Submission Requirements
-We accept the following submission types as pdf documents in the [AAAI format](https://aaai.org/authorkit25/). **Since the review process is single blind, please use the camera ready format for the submission.** 
+We accept the following submission types as pdf documents in the [AAAI format](https://aaai.org/authorkit25/).  **Since the review process is single blind, please use the camera ready format for the submission.** 
 * Research papers (8 pages)
 * Policy/Position papers (4 pages)
 * Posters on Research topics (4 pages)
