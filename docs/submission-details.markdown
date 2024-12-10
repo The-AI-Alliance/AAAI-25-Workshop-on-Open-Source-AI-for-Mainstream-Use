@@ -41,11 +41,14 @@ We accept the following submission types as pdf documents in the [AAAI format](h
 **The page limits include references and any appendices.**
 
 ## Final camera ready paper submission
-* Log into the existing [EasyChair](https://easychair.org) Workshop submission page as the author for your paper 
+* Log into [EasyChair](https://easychair.org)
+* Select 'My Conferences' and then OSAI4MU-25 with your role as 'author'
+* Click on View (lens icon) option for your paper
 * Select Add/Update files on the top right
 * Select the upload option against 'Final Version'
 * Select the file on your computer and save.
 * You are done!
+
 
 ## Publication Plan
 AAAI no longer produces technical reports for its workshops. All accepted papers will be available at this workshop website. **Authors are encouraged to share their work on platforms like arXiv or other online repositories for archival purposes**.
