@@ -5,20 +5,30 @@ nav_order: 60
 has_children: false
 ---
 
-## Date: March 4,2025    Place: Pennsylvania Convention Center, Philadelphia, USA 
+## Place: Pennsylvania Convention Center, Philadelphia, USA 
 
-**Tentative Program**
+## Date: March 4,2025   
+
+**Tentative Program (subjected to change)**
 
 |Session  |Slot (EST)   | Topic |
 | :------- | :-------- |  :-------- |
-|Welcome |08:30-08:45a | |
-|Keynote |08:45-09:15a |TBA | 
-|Open Source & Policy |09:15-09:35a | Why Open Source AI Models Matter|
+|**WELCOME** |08:30-08:45a | |
+|**KEYNOTE** |08:45-09:15a |TBA | 
+|**Open Source & Policy** |09:15-09:35a | Why Open Source AI Models Matter|
 | |09:35-09:55a| Open Source Casualties of Model-Layer Regulation |
-|Greg Lindahl |greg@commoncrawl.org|Common Crawl Foundation, USA.|
-|Sujee Maniyam |sujee@node51.com| Node51 LLC, USA. |
-|Manish Parashar |manish.parashar@utah.edu| University of Utah, USA.|
-|Pushkar Singh |pushkarsingh@google.com | Google, USA. |
-|Jonathan Starr |jon@numfocus.org| NumFOCUS, USA. |
-|Raphaël Vienne |raphael.vienne@datacraft.paris| Datacraft, France. |
+|**Application** |09:55-10:15a|Short Paper: Employing Open-Source LLMs for Preventive Action Recommendations to Avoid Industrial Safety Incident|
+|**BREAK** |10:15-10:30a|  |
+|**Open Source Tools & Standards** |10:30-11:00a| Paper: An Overview of the Natural Language Interaction Protocol|
+| |11:00-11:30a | Paper: Docling |
+| |11:30-12:00p| Demo: Streamlining Enterprise AI RAG Pipelines with OPEA and IBM DataPrepKit |
+|**LUNCH** |12:00-01:45p|  |
+|**Domain specific Foundation models**  |01:45-02:15p | Demo: Benchmarking Geospatial Foundation Models with GEO-Bench and Terratorch|
+| |02:15-02:45p | Demo: Open Foundation Model for Materials and Chemistry|
+| |02:45-03:15p | Demo: Garuda: An Indian Agricultural LLM And Krishi Saathi Advisory Chatbot|
+|**BREAK** |03:15-03:30p | |
+|**Open Source Tools** |03:30-04:00p | Demo: Efficient Any-to-any Late Fusion Implementation of Generative Fusion Decoding |
+| |04:00-04:30p |Demo: DB-Agent - Leveraging Open source LLMs to empower end user |
+|**PANEL** |04:30-05:15p | Challenges in Building an Open Ecosystem; Panelists TBA |
+|**CLOSING** |05:15-05:30p |  |
 
