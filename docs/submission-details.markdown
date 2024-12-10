@@ -41,7 +41,7 @@ We accept the following submission types as pdf documents in the [AAAI format](h
 **The page limits include references and any appendices.**
 
 ## Final camera ready paper submission
-* Log into you existing Workshop submission page for the paper, 
+* Log into you existing Workshop submission page for the paper 
 * Select Add/Update files on the top right
 * Select the upload option against 'Final Version'
 * You are done!
