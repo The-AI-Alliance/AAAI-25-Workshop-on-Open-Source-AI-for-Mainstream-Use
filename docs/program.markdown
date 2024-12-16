@@ -36,7 +36,7 @@ has_children: false
 ##Speaker Bios
 
 **Jose Plehn-Dujowich**
-![Jose Plehn-Dujowich](assets/images/jose-plehn-dujowich-speech-ucberkeley.jpg)
+![Jose Plehn-Dujowich](assets/images/jose-plehn.jpg)
 Jose is the Founder and CEO of BrightQuery (“BQ”) and BQ AI: The Factual AI Company™. Jose has over ten years of academic experience working with U.S. statistical agencies, including the IRS, Census Bureau, Bureau of Labor Statistics, and Small Business Administration (SBA). Prior to focusing on entrepreneurship, Jose was Faculty & Executive Director of the Fink Center at the Anderson School of Management at UCLA, Adjunct Accounting Professor at the Haas School of Business at UC Berkeley, and Executive Director of the Center for Financial Reporting & Management at the Haas School of Business at UC Berkeley. While at UC Berkeley, Jose founded the Berkeley Charter of Professional Accountancy (BCPA), which has become a leading accounting program. Prior to joining UC Berkeley, Jose was Assistant Professor of Accounting at Temple University in Philadelphia, PA and Assistant Professor of Economics at SUNY Buffalo. While at SUNY Buffalo, Jose helped found the Journal of Human Capital published by the University of Chicago Press. In 2011, Jose contributed IP to co-found Powerlytics, which provides aggregated anonymized IRS tax returns on all U.S. companies and households.
 
 
