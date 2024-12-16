@@ -29,6 +29,6 @@ has_children: false
 |**Open Source Tools** |03:00-03:30p | Demo: Efficient Any-to-any Late Fusion Implementation of Generative Fusion Decoding |
 |**BREAK** |03:30-04:00p | |
 |**Open Source Tools** |04:00-04:30p |Demo: DB-Agent - Leveraging Open source LLMs to empower end user |
-|**PANEL** |04:30-05:15p | **"Challenges in Building an Open Ecosystem"** Panelists: Jose Plehn-Dujowich (Founder and CEO of BrightQuery &  BrightQuery AI: The Factual AI Company™), Sean Hughes (AI Ecosystem Director, ServiceNow), More TBA |
+|**PANEL** |04:30-05:15p | **Panel: "Challenges in Building an Open Ecosystem"** Panelists: Jose Plehn-Dujowich (Founder and CEO of BrightQuery &  BrightQuery AI: The Factual AI Company™), Sean Hughes (AI Ecosystem Director, ServiceNow), More TBA |
 |**CLOSING** |05:15-05:30p |  |
 
