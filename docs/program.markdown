@@ -32,3 +32,9 @@ has_children: false
 |**PANEL** |04:30-05:15p | **Panel: "Challenges in Building an Open Ecosystem"** Panelists: Jose Plehn-Dujowich (Founder and CEO of BrightQuery &  BrightQuery AI: The Factual AI Company™), Sean Hughes (AI Ecosystem Director, ServiceNow), More TBA |
 |**CLOSING** |05:15-05:30p |  |
 
+
+#Speaker Bios
+
+**Jose Plehn-Dujowich**
+![Jose Plehn-Dujowich](images/jose-plehn-dujowich-speech-ucberkeley)
+
