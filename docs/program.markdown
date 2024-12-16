@@ -41,7 +41,7 @@ Jose is the Founder and CEO of BrightQuery (“BQ”) and BQ AI: The Factual AI 
 
 
 **Sean Hughes**
-![Sean Hughes](assets/images/Sean Hughes.jpg)
+![Sean Hughes](assets/images/sean-hughes.jpg)
 Sean Hughes is ServiceNow’s AI ecosystem director. He is responsible for ServiceNow's open scientific collaborations. He is a member of the AI Alliance steering committee; co-leads the AI Alliance Foundation Models Working Group, and the AI Alliance Community core team. He was a founding member of the BigCode Project where he is a member of the Core Team, and co-leads the Legal, Ethics, Governance Working Group. Hughes previously held leadership roles at HP, Hewlett Packard Enterprise, Actian Corporation, and Intel Corporation's Artificial Intelligence Products Group.
 
 
