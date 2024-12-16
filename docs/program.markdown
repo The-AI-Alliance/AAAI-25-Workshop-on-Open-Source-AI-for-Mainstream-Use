@@ -36,5 +36,5 @@ has_children: false
 #Speaker Bios
 
 **Jose Plehn-Dujowich**
-![Jose Plehn-Dujowich](images/jose-plehn-dujowich-speech-ucberkeley)
+![Jose Plehn-Dujowich](images/jose-plehn-dujowich-speech-ucberkeley.jpg)
 
