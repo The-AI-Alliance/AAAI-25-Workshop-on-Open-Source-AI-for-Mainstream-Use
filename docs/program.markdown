@@ -33,7 +33,7 @@ has_children: false
 |**CLOSING** |05:15-05:30p |  |
 
 
-## Speaker Bios
+## Panelists' Bios
 
 **Jose Plehn-Dujowich**
 
