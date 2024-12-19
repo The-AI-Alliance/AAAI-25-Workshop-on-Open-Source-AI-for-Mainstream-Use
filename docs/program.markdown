@@ -11,27 +11,27 @@ has_children: false
 
 
 
-|Session  |Slot (EST)   | Topic |
-| :------- | :-------- |  :-------- |
-|**WELCOME** |08:30-08:45a | |
-|**KEYNOTE** |08:45-09:15a |TBA | 
-|**Open Source & Policy** |09:15-09:35a | Position paper: Why Open Source AI Models Matter|
-| |09:35-09:55a|  Position paper: Open Source Casualties of Model-Layer Regulation |
-|**Application** |09:55-10:15|Short Paper: Employing Open-Source LLMs for Preventive Action Recommendations to Avoid Industrial Safety Incident|
-|**Standards** |10:15-10:45a| Paper: An Overview of the Natural Language Interaction Protocol|
-|**BREAK** |10:45-11:00a|  |
-| **Open Source Tools-I** |11:00-11:30a | Paper: Docling-Open Source Toolkit for Document Conversion |
-| |11:30-12:00p| Demo: Streamlining Enterprise AI RAG Pipelines with OPEA and IBM DataPrepKit |
-|**LUNCH** |12:00-01:00p|  |
-|**Domain Specific Foundation Models**  |01:00-01:30p |Paper: SemiKong: Curating, Training, and Evaluating A Semiconductor Industry-Specific Large Language Model|
-| |01:30-02:00p | Demo: Benchmarking Geospatial Foundation Models with GEO-Bench and Terratorch|
-| |02:00-02:30p | Demo: Open Foundation Model for Materials and Chemistry|
-| |02:30-03:00p | Demo: Garuda: An Indian Agricultural LLM And Krishi Saathi Advisory Chatbot|
-|**Open Source Tools-II** |03:00-03:30p | Demo: Efficient Any-to-any Late Fusion Implementation of Generative Fusion Decoding |
-|**BREAK** |03:30-04:00p | |
-|**Open Source Tools-II** |04:00-04:30p |Demo: DB-Agent - Leveraging Open source LLMs to empower end user |
-|**PANEL** |04:30-05:15p | **Panel: "Challenges in Building an Open Ecosystem"** Jose Plehn-Dujowich, Sean Hughes, More TBA |
-|**CLOSING** |05:15-05:30p |  |
+|Session  |Slot (EST)   | Topic |  Authors |
+| :------- | :-------- |  :-------- |  :-------- |
+|**WELCOME** |08:30-08:45a | | |
+|**KEYNOTE** |08:45-09:15a |TBA |   |
+|**Open Source & Policy** |09:15-09:35a | Position paper: Why Open Source AI Models Matter| Arnaud Le Hors, Sanjeev Kumar Marimekala, Susan Malaika, Rajeev Gupta, Michael Rudowsky and Joe Sepi |
+| |09:35-09:55a|  Position paper: Open Source Casualties of Model-Layer Regulation | Benjamin Brooks |
+|**Application** |09:55-10:15|Short Paper: Employing Open-Source LLMs for Preventive Action Recommendations to Avoid Industrial Safety Incident| Shubham Kumbhar, Siddharth Tumre, Sumit Koundanya and Sangameshwar Patil |
+|**Standards** |10:15-10:45a| Paper: An Overview of the Natural Language Interaction Protocol| Sanjay Aiyagari, Rithik Babu, Elisa Bertino, Jan Bieniek, Yan-Ming Chiou, Raj Dodhiawala, Erik Erlandson, Sugih Jamin, Ashish Kundu, Jon Lenchner, Tejas Maire, Matthew Mauriello, Mohamed Rahouti, Abhay Ratnaparkhi, Tom Sheffler, Chien-Chung Shen, Dinesh Verma, Wenpeng Yin, Luyi Xing, Jinjun Xiong and Hasan Zengin  |
+|**BREAK** |10:45-11:00a|  |  |
+| **Open Source Tools-I** |11:00-11:30a | Paper: Docling-Open Source Toolkit for Document Conversion |Nikolaos Livathinos, Christoph Auer, Maksym Lysak, Ahmed Nassar, Michele Dolfi, Panagiotis Vagenas, Cesar Berrospi Ramis, Matteo Omenetti, Kasper Dinkla, Yusik Kim, Shubham Gupta, Rafael Teixeira de Lima, Valery Weber, Lucas Morin, Ingmar Meijer, Viktor Kuropiatnyk and Peter W.J. Staar|
+| |11:30-12:00p| Demo: Streamlining Enterprise AI RAG Pipelines with OPEA and IBM DataPrepKit | Ezequiel Lanza and Sujee Maniyam |
+|**LUNCH** |12:00-01:00p|  |  |
+|**Domain Specific Foundation Models**  |01:00-01:30p |Paper: SemiKong: Curating, Training, and Evaluating A Semiconductor Industry-Specific Large Language Model| Christopher Nguyen, William Nguyen, Atsushi Suzuki, Daisuke Oku, An Phan, Sang Dinh, Zooey Nguyen, Annie Ha, Vinh Luong, Shruti Raghavan, Huy Vo, Thang Nguyen, Lan Nguyen and Yoshikuni Hirayama  |
+| |01:30-02:00p | Demo: Benchmarking Geospatial Foundation Models with GEO-Bench and Terratorch| Naomi Simumba, Nils Lehmann, Campbell Watson, Alexandre Lacoste and Paolo Fraccaro |
+| |02:00-02:30p | Demo: Open Foundation Model for Materials and Chemistry| Seiji Takeda, Indra Priyadarsini, Lisa Hamada, Onur Boyar, Emilio Brazil, Eduardo Soares, Flaviu Cipcigan, David Braines, Vidushi Sharma, Tim Erdmann and Mehrad Ansari  |
+| |02:30-03:00p | Demo: Garuda: An Indian Agricultural LLM And Krishi Saathi Advisory Chatbot| Chintan Donda, Manan Uppadhyay, Mihir Goyal, Jp Tripathi and Mohammad Salman  |
+|**Open Source Tools-II** |03:00-03:30p | Demo: Efficient Any-to-any Late Fusion Implementation of Generative Fusion Decoding | Chan-Jan Hsu, Mu-Xi Chen, Yi-Chang Chen and Da-Shan Shiu |
+|**BREAK** |03:30-04:00p | |  |
+|**Open Source Tools-II** |04:00-04:30p |Demo: DB-Agent - Leveraging Open source LLMs to empower end user | Chandan Kumar |
+|**PANEL** |04:30-05:15p | **Panel: "Challenges in Building an Open Ecosystem"** Jose Plehn-Dujowich, Sean Hughes, More TBA |  |
+|**CLOSING** |05:15-05:30p |  |  |
 
 
 ## Panelists' Bios
