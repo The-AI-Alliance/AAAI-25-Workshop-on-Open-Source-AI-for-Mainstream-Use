@@ -14,16 +14,17 @@ has_children: false
 |Session  |Slot (EST)   | Topic |
 | :------- | :-------- |  :-------- |
 |**WELCOME** |08:30-08:45a | |
-|**KEYNOTE** |08:45-09:30a |TBA | 
-|**Open Source & Policy** |09:30-09:50a | Position paper: Why Open Source AI Models Matter|
-| |09:50-10:10a|  Position paper: Open Source Casualties of Model-Layer Regulation |
-|**Application** |10:10-10:30a|Short Paper: Employing Open-Source LLMs for Preventive Action Recommendations to Avoid Industrial Safety Incident|
+|**KEYNOTE** |08:45-09:15a |TBA | 
+|**Open Source & Policy** |09:15-09:30a | Position paper: Why Open Source AI Models Matter|
+| |09:30-09:45a|  Position paper: Open Source Casualties of Model-Layer Regulation |
+|**Application** |09:45-10:00a|Short Paper: Employing Open-Source LLMs for Preventive Action Recommendations to Avoid Industrial Safety Incident|
+|**Standards** |10:00-10:30a| Paper: An Overview of the Natural Language Interaction Protocol|
 |**BREAK** |10:30-11:00a|  |
-|**Open Source Tools & Standards** |11:00-11:30a| Paper: An Overview of the Natural Language Interaction Protocol|
-| |11:30-12:00n | Paper: Docling-Open Source Toolkit for Document Conversion |
-| |12:00-12:30p| Demo: Streamlining Enterprise AI RAG Pipelines with OPEA and IBM DataPrepKit |
-|**LUNCH** |12:30-01:30p|  |
-|**Domain specific Foundation models**  |01:30-02:00p | Demo: Benchmarking Geospatial Foundation Models with GEO-Bench and Terratorch|
+| **Open Source Tools & ** |11:00-11:30a | Paper: Docling-Open Source Toolkit for Document Conversion |
+| |11:30-12:00p| Demo: Streamlining Enterprise AI RAG Pipelines with OPEA and IBM DataPrepKit |
+|**LUNCH** |12:00-01:00p|  |
+|**Domain specific Foundation models**  |01:00-01:30p |Paper: SemiKong: Curating, Training, and Evaluating A Semiconductor Industry-Specific Large Language Model|
+| |01:30-02:00p | Demo: Benchmarking Geospatial Foundation Models with GEO-Bench and Terratorch|
 | |02:00-02:30p | Demo: Open Foundation Model for Materials and Chemistry|
 | |02:30-03:00p | Demo: Garuda: An Indian Agricultural LLM And Krishi Saathi Advisory Chatbot|
 |**Open Source Tools** |03:00-03:30p | Demo: Efficient Any-to-any Late Fusion Implementation of Generative Fusion Decoding |
