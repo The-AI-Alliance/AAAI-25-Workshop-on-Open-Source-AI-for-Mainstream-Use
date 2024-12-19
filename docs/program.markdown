@@ -17,7 +17,7 @@ has_children: false
 |**KEYNOTE** |08:45-09:15a |TBA |   |
 |**Open Source & Policy** |09:15-09:35a | Position paper: Why Open Source AI Models Matter| Arnaud Le Hors, Sanjeev Kumar Marimekala, Susan Malaika, Rajeev Gupta, Michael Rudowsky and Joe Sepi |
 | |09:35-09:55a|  Position paper: Open Source Casualties of Model-Layer Regulation | Benjamin Brooks |
-|**Application** |09:55-10:15|Short Paper: Employing Open-Source LLMs for Preventive Action Recommendations to Avoid Industrial Safety Incident| Shubham Kumbhar, Siddharth Tumre, Sumit Koundanya and Sangameshwar Patil |
+|**Application** |09:55-10:15a|Short Paper: Employing Open-Source LLMs for Preventive Action Recommendations to Avoid Industrial Safety Incident| Shubham Kumbhar, Siddharth Tumre, Sumit Koundanya and Sangameshwar Patil |
 |**Standards** |10:15-10:45a| Paper: An Overview of the Natural Language Interaction Protocol| Sanjay Aiyagari, Rithik Babu, Elisa Bertino, Jan Bieniek, Yan-Ming Chiou, Raj Dodhiawala, Erik Erlandson, Sugih Jamin, Ashish Kundu, Jon Lenchner, Tejas Maire, Matthew Mauriello, Mohamed Rahouti, Abhay Ratnaparkhi, Tom Sheffler, Chien-Chung Shen, Dinesh Verma, Wenpeng Yin, Luyi Xing, Jinjun Xiong and Hasan Zengin  |
 |**BREAK** |10:45-11:00a|  |  |
 | **Open Source Tools-I** |11:00-11:30a | Paper: Docling-Open Source Toolkit for Document Conversion |Nikolaos Livathinos, Christoph Auer, Maksym Lysak, Ahmed Nassar, Michele Dolfi, Panagiotis Vagenas, Cesar Berrospi Ramis, Matteo Omenetti, Kasper Dinkla, Yusik Kim, Shubham Gupta, Rafael Teixeira de Lima, Valery Weber, Lucas Morin, Ingmar Meijer, Viktor Kuropiatnyk and Peter W.J. Staar|
