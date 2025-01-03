@@ -36,11 +36,11 @@ has_children: false
 
 ## Panelists
 
-**Jose Plehn-Dujowich**
+**Nathaniel Bastian**
 
-![Jose Plehn-Dujowich](assets/images/jose-plehn.jpg)
+![Nathaniel Bastian](assets/images/natebastian3.jpg)
 
-Jose is the Founder and CEO of BrightQuery (“BQ”) and BQ AI: The Factual AI Company™. Jose has over ten years of academic experience working with U.S. statistical agencies, including the IRS, Census Bureau, Bureau of Labor Statistics, and Small Business Administration (SBA). Prior to focusing on entrepreneurship, Jose was Faculty & Executive Director of the Fink Center at the Anderson School of Management at UCLA, Adjunct Accounting Professor at the Haas School of Business at UC Berkeley, and Executive Director of the Center for Financial Reporting & Management at the Haas School of Business at UC Berkeley. While at UC Berkeley, Jose founded the Berkeley Charter of Professional Accountancy (BCPA), which has become a leading accounting program. Prior to joining UC Berkeley, Jose was Assistant Professor of Accounting at Temple University in Philadelphia, PA and Assistant Professor of Economics at SUNY Buffalo. While at SUNY Buffalo, Jose helped found the Journal of Human Capital published by the University of Chicago Press. In 2011, Jose contributed IP to co-found Powerlytics, which provides aggregated anonymized IRS tax returns on all U.S. companies and households.
+Nathaniel D. Bastian, PhD, is a Lieutenant Colonel in the U.S. Army, serving as an Academy Professor at the United States Military Academy (USMA) at West Point. He is also concurrently serving as a Program Manager at the Defense Advanced Research Projects Agency (DARPA). At USMA, Nate serves as Division Chief, Data & Decision Sciences, Chief Data Scientist and Principal Research Scientist at the Army Cyber Institute within the Department of Electrical Engineering and Computer Science (EECS). His research interests aim to develop innovative, assured, intelligent, human-aware, data-centric, and decision-driven capabilities for cyberspace operations. Nate also serves as a faculty member in the Departments of Mathematical Sciences, Systems Engineering, and EECS at USMA. At DARPA, he serves in the Information Innovation Office developing, executing, and transitioning research and development programs in artificial intelligence and cyberspace operations.
 
 
 **Sean Hughes**
@@ -49,8 +49,9 @@ Jose is the Founder and CEO of BrightQuery (“BQ”) and BQ AI: The Factual AI 
 
 Sean Hughes is ServiceNow’s AI ecosystem director. He is responsible for ServiceNow's open scientific collaborations. He is a member of the AI Alliance steering committee; co-leads the AI Alliance Foundation Models Working Group, and the AI Alliance Community core team. He was a founding member of the BigCode Project where he is a member of the Core Team, and co-leads the Legal, Ethics, Governance Working Group. Hughes previously held leadership roles at HP, Hewlett Packard Enterprise, Actian Corporation, and Intel Corporation's Artificial Intelligence Products Group.
 
-**Nathaniel Bastian**
 
-![Nathaniel Bastian](assets/images/natebastian2.jpg)
+**Jose Plehn-Dujowich**
 
-Nathaniel D. Bastian, PhD, is a Lieutenant Colonel in the U.S. Army, serving as an Academy Professor at the United States Military Academy (USMA) at West Point. He is also concurrently serving as a Program Manager at the Defense Advanced Research Projects Agency (DARPA). At USMA, Nate serves as Division Chief, Data & Decision Sciences, Chief Data Scientist and Principal Research Scientist at the Army Cyber Institute within the Department of Electrical Engineering and Computer Science (EECS). His research interests aim to develop innovative, assured, intelligent, human-aware, data-centric, and decision-driven capabilities for cyberspace operations. Nate also serves as a faculty member in the Departments of Mathematical Sciences, Systems Engineering, and EECS at USMA. At DARPA, he serves in the Information Innovation Office developing, executing, and transitioning research and development programs in artificial intelligence and cyberspace operations.
+![Jose Plehn-Dujowich](assets/images/jose-plehn.jpg)
+
+Jose is the Founder and CEO of BrightQuery (“BQ”) and BQ AI: The Factual AI Company™. Jose has over ten years of academic experience working with U.S. statistical agencies, including the IRS, Census Bureau, Bureau of Labor Statistics, and Small Business Administration (SBA). Prior to focusing on entrepreneurship, Jose was Faculty & Executive Director of the Fink Center at the Anderson School of Management at UCLA, Adjunct Accounting Professor at the Haas School of Business at UC Berkeley, and Executive Director of the Center for Financial Reporting & Management at the Haas School of Business at UC Berkeley. While at UC Berkeley, Jose founded the Berkeley Charter of Professional Accountancy (BCPA), which has become a leading accounting program. Prior to joining UC Berkeley, Jose was Assistant Professor of Accounting at Temple University in Philadelphia, PA and Assistant Professor of Economics at SUNY Buffalo. While at SUNY Buffalo, Jose helped found the Journal of Human Capital published by the University of Chicago Press. In 2011, Jose contributed IP to co-found Powerlytics, which provides aggregated anonymized IRS tax returns on all U.S. companies and households.
