@@ -30,7 +30,7 @@ has_children: false
 |**Open Source Tools-II** |03:00-03:30p | Demo: Efficient Any-to-any Late Fusion Implementation of Generative Fusion Decoding | Chan-Jan Hsu, Mu-Xi Chen, Yi-Chang Chen and Da-Shan Shiu |
 |**BREAK** |03:30-04:00p | |  |
 |**Open Source Tools-II** |04:00-04:30p |Demo: DB-Agent - Leveraging Open source LLMs to empower end user | Chandan Kumar |
-|**PANEL** |04:30-05:15p | **"Building an Open Ecosystem"** | Jose Plehn-Dujowich, Sean Hughes, More TBA |
+|**PANEL** |04:30-05:15p | **"Building an Open Ecosystem"** | Nathaniel Bastian, Jose Plehn-Dujowich, Sean Hughes, more TBA |
 |**CLOSING** |05:15-05:30p |  |  |
 
 
@@ -51,6 +51,6 @@ Sean Hughes is ServiceNow’s AI ecosystem director. He is responsible for Servi
 
 **Nathaniel Bastian**
 
-![Nathaniel Bastian](assets/images/natebastian.jpg)
+![Nathaniel Bastian](assets/images/natebastian2.jpg)
 
 Nathaniel D. Bastian, PhD, is a Lieutenant Colonel in the U.S. Army, serving as an Academy Professor at the United States Military Academy (USMA) at West Point. He is also concurrently serving as a Program Manager at the Defense Advanced Research Projects Agency (DARPA). At USMA, Nate serves as Division Chief, Data & Decision Sciences, Chief Data Scientist and Principal Research Scientist at the Army Cyber Institute within the Department of Electrical Engineering and Computer Science (EECS). His research interests aim to develop innovative, assured, intelligent, human-aware, data-centric, and decision-driven capabilities for cyberspace operations. Nate also serves as a faculty member in the Departments of Mathematical Sciences, Systems Engineering, and EECS at USMA. At DARPA, he serves in the Information Innovation Office developing, executing, and transitioning research and development programs in artificial intelligence and cyberspace operations.
