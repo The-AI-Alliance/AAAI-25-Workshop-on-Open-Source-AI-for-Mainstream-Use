@@ -30,7 +30,7 @@ has_children: false
 |**Open Source Tools-II** |03:00-03:30p | Demo: Efficient Any-to-any Late Fusion Implementation of Generative Fusion Decoding | Chan-Jan Hsu, Mu-Xi Chen, Yi-Chang Chen and Da-Shan Shiu |
 |**BREAK** |03:30-04:00p | |  |
 |**Open Source Tools-II** |04:00-04:30p |Demo: DB-Agent - Leveraging Open source LLMs to empower end user | Chandan Kumar |
-|**PANEL** |04:30-05:15p | **"Building an Open Ecosystem"** | Nathaniel Bastian, Sean Hughes, Jose Plehn-Dujowich, more TBA |
+|**PANEL** |04:30-05:15p | **"Building an Open Ecosystem"** | Nathaniel Bastian, Sean Hughes, John McBroom, Jose Plehn-Dujowich, more TBA |
 |**CLOSING** |05:15-05:30p |  |  |
 
 
