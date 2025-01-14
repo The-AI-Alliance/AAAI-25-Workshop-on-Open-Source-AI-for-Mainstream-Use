@@ -53,7 +53,7 @@ Sean Hughes is ServiceNow’s AI ecosystem director. He is responsible for Servi
 
 ![John McBroom](assets/images/McBroom-2.jpg)
 
-John McBroom joined the IBM law department in 2006 and in his current role as Senior Counsel and IBM Open Technology Counsel, he is responsible for leading legal support for IBM's various open activities across its enterprise. John also serves as the Board Secretary for Open Innovation Network (OIN), an institution focused on mitigating patent risk in Open Source Software. His past IBM responsibilities include providing legal support to various IBM cloud, software, and hardware offering teams, and has worked on several IBM acquisitions, including Red Hat. John earned his legal degree from the Duke University School of Law, and prior to joining IBM, served as law clerk for Federal Judge Ann D. Montgomery and worked for the Faegre & Benson law firm (now Faegre Drinker Biddle & Reath) in Minneapolis. 
+John McBroom joined the IBM law department in 2006 and in his current role as Senior Counsel and IBM Open Technology Counsel, he is responsible for leading legal support for IBM's various open activities across its enterprise. John also serves as the Board Secretary for Open Innovation Network (OIN), an institution focused on mitigating patent risk in Open Source Software. His past IBM responsibilities include providing legal support to various IBM cloud, software, and hardware offering teams, and has worked on several IBM acquisitions, including Red Hat. John earned his law degree from the Duke University School of Law, and prior to joining IBM, served as law clerk for Federal Judge Ann D. Montgomery and worked for the Faegre & Benson law firm (now Faegre Drinker Biddle & Reath) in Minneapolis. 
 
 
 **Jose Plehn-Dujowich**
