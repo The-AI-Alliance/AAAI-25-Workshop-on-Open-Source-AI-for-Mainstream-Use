@@ -11,7 +11,7 @@ has_children: false
 
 
 
-|Session  |Slot (EST)   | Topic |  Authors/Participants |
+|Session  |Slot (EST)   | Topic |  Speakers/Authors/Participants |
 | :------- | :-------- |  :-------- |  :-------- |
 |**WELCOME** |08:30-08:40a | | |
 |**KEYNOTE** |08:40-09:15a |Granite: Open Source Models for the Enterprise | Kate Soule  |
@@ -21,7 +21,7 @@ has_children: false
 |**Standards** |10:15-10:45a| Paper: An Overview of the Natural Language Interaction Protocol| Sanjay Aiyagari, Rithik Babu, Elisa Bertino, Jan Bieniek, Yan-Ming Chiou, Raj Dodhiawala, Erik Erlandson, Sugih Jamin, Ashish Kundu, Jon Lenchner, Tejas Maire, Matthew Mauriello, Mohamed Rahouti, Abhay Ratnaparkhi, Tom Sheffler, Chien-Chung Shen, Dinesh Verma, Wenpeng Yin, Luyi Xing, Jinjun Xiong and Hasan Zengin  |
 |**BREAK** |10:45-11:00a|  |  |
 | **Open Source Tools-I** |11:00-11:30a | Paper: Docling-Open Source Toolkit for Document Conversion |Nikolaos Livathinos, Christoph Auer, Maksym Lysak, Ahmed Nassar, Michele Dolfi, Panagiotis Vagenas, Cesar Berrospi Ramis, Matteo Omenetti, Kasper Dinkla, Yusik Kim, Shubham Gupta, Rafael Teixeira de Lima, Valery Weber, Lucas Morin, Ingmar Meijer, Viktor Kuropiatnyk and Peter W.J. Staar|
-| |11:30-12:00p| Demo: Streamlining Enterprise AI RAG Pipelines with OPEA and IBM DataPrepKit | Ezequiel Lanza and Sujee Maniyam |
+| |11:30-12:00p| Demo: Streamlining Enterprise AI RAG Pipelines with OPEA and IBM DataPrepKit | Ezequiel Lanza, Sujee Maniyam and Murilo Gustinelli |
 |**LUNCH** |12:00-01:00p|  |  |
 |**Domain Specific Foundation Models**  |01:00-01:30p |Paper: SemiKong: Curating, Training, and Evaluating A Semiconductor Industry-Specific Large Language Model| Christopher Nguyen, William Nguyen, Atsushi Suzuki, Daisuke Oku, An Phan, Sang Dinh, Zooey Nguyen, Annie Ha, Vinh Luong, Shruti Raghavan, Huy Vo, Thang Nguyen, Lan Nguyen and Yoshikuni Hirayama  |
 | |01:30-02:00p | Demo: Benchmarking Geospatial Foundation Models with GEO-Bench and Terratorch| Naomi Simumba, Nils Lehmann, Campbell Watson, Alexandre Lacoste and Paolo Fraccaro |
