@@ -41,7 +41,7 @@ has_children: false
 
 **Kate Soule**
 
-![Kate Soule](assets/images/Kate Soule-2.jpg)
+![Kate Soule](assets/images/KateSoule.jpg)
 
 
 
