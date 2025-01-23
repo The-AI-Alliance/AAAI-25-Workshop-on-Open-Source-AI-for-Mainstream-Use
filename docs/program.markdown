@@ -34,6 +34,18 @@ has_children: false
 |**CLOSING** |05:15-05:30p |  |  |
 
 
+
+
+
+## Keynote 
+
+**Kate Soule**
+
+![Kate Soule](assets/images/Kate Soule-2.jpg)
+
+
+
+
 ## Panelists
 
 **Nathaniel Bastian**
