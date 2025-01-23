@@ -13,8 +13,8 @@ has_children: false
 
 |Session  |Slot (EST)   | Topic |  Authors/Participants |
 | :------- | :-------- |  :-------- |  :-------- |
-|**WELCOME** |08:30-08:45a | | |
-|**KEYNOTE** |08:45-09:15a |TBA |   |
+|**WELCOME** |08:30-08:40a | | |
+|**KEYNOTE** |08:40-09:15a |Granite: Open Source Models for the Enterprise | Kate Soule  |
 |**Open Source & Policy** |09:15-09:35a | Position paper: Why Open Source AI Models Matter| Arnaud Le Hors, Sanjeev Kumar Marimekala, Susan Malaika, Rajeev Gupta, Michael Rudowsky and Joe Sepi |
 | |09:35-09:55a|  Position paper: Open Source Casualties of Model-Layer Regulation | Benjamin Brooks |
 |**Application** |09:55-10:15a|Short Paper: Employing Open-Source LLMs for Preventive Action Recommendations to Avoid Industrial Safety Incident| Shubham Kumbhar, Siddharth Tumre, Sumit Koundanya and Sangameshwar Patil |
@@ -43,6 +43,7 @@ has_children: false
 
 ![Kate Soule](assets/images/KateSoule.jpg)
 
+Kate Soule is the Director of Technical Product Management for IBM Granite, where she leads the productization and release of IBM's Granite family of open source Large Language Models. Prior to her current role at IBM Research, Kate was a leader at the MIT-IBM Watson AI Lab, a joint research partnership between MIT and IBM Research; Kate ran the Lab’s corporate membership program, supporting industry investment in the Lab’s AI research technologies. Kate earned her MBA at MIT Sloan and previously worked at Deloitte Consulting as a Senior Consultant within the Strategy and Operations practice. Kate also holds a B.S. in Statistics from Cornell University.
 
 
 
