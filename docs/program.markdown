@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Tentative Program
+title: Workshop Program
 nav_order: 60
 has_children: false
 ---
 
-# Tentative Program (subjected to change)
+# Workshop Program 
 
 ## March 4, 2025 at the Pennsylvania Convention Center, Philadelphia, PA, USA.
 
